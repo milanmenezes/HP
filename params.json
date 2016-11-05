@@ -1,6 +1,6 @@
 {
   "name": "HP",
   "tagline": "Docker and Hypervisor Security",
-  "body": "# HP\r\nDocker and Hypervisor Security\r\n",
+  "body": "# HP\r\n## Docker and Hypervisor Security\r\n\r\nResearch the important security features in Docker and VMWare, Understand\r\nall the Security APIs, Write sample application to illustrate the use of Security\r\nAPIs and then prepare a report with your understanding and best practices\r\nTake some open source products and find out how secure they are by\r\ncomparing the best practices you have come up with. (aspirational)\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
